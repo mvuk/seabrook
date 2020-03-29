@@ -26,11 +26,14 @@ body {
 .desktop-menu {
     display: flex;
     flex-direction: column;
-    padding-left: 60px;
+    padding-left: 94px;
     padding-bottom: 30px;
 
     .desktop-menu-link {
         margin-bottom: 1rem;
-        font-family: vendetta, serif;
+        font-family: vendetta,serif;
+        color: #333;
+        letter-spacing: 1px;
+        font-size: 20px;
     }
 }
