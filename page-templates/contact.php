@@ -26,7 +26,7 @@ endwhile;
 	<div class="left-col-image">
 
 	</div>
-	<div class="right-content conact-vertical-split">
+	<div class="right-content contact-vertical-split">
 		<div class="contact-summary">
 			<div class="row">
 				<div class="col">
@@ -43,7 +43,11 @@ endwhile;
 			</div>
 		</div>
 		<div class="contact-form">
-			<p>[contact form]</p>
+			<div class="row">
+				<div class="col">
+					<p>[contact form]</p>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>

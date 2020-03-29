@@ -47,6 +47,7 @@ body {
 .swl-flex-row {
     display: flex;
     flex-direction: row;
+    flex-grow: 1;
 }
 
 .left-col-image {
@@ -55,11 +56,31 @@ body {
     width: 29vw;
 }
 
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
 // CONTACT PAGE
 
-.contact-summary {
-    background: #36435b;
+.contact-vertical-split {
+    display: flex;
+    flex-direction: column;
+    
+    p {
+        color: #fff;
+    }
+    
+    .contact-summary {
+        background: #36435b;
+        height: 40vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+    .contact-form {
+        background: #5b6b8f;
+        height: 60vh;
+    }
 }
-.contact-form {
-    background: #5b6b8f;
-}
+
