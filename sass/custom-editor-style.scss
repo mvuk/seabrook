@@ -1,6 +1,16 @@
 //Add your own editor styles here or comment out the next line if you want to pull in the whole Bootstrap stuff
 //@import "theme"; 
 
-.custom {
-    
+body {
+    background: #e1e1e1
+}
+
+div#page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.wrapper-navbar {
+    background: #fff
 }
