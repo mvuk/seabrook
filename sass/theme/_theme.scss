@@ -10,12 +10,8 @@ div#page {
     flex-direction: row;
 }
 
-.wrapper-navbar {
-    background: #fff
-}
-
 div#wrapper-navbar {
-    max-width: 260px;
+    width: 260px;
     background: #fff;
     display: flex;
     flex-direction: column;
