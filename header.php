@@ -35,12 +35,12 @@ $container = get_theme_mod( 'understrap_container_type' );
 		</a>
 
 		<div class="desktop-menu">
-			<a href="#" class="desktop-menu-link">Home</a>
-			<a href="#" class="desktop-menu-link">About Us</a>
-			<a href="#" class="desktop-menu-link">Firm Values</a>
-			<a href="#" class="desktop-menu-link">Legal Services</a>
-			<a href="#" class="desktop-menu-link">Stories</a>
-			<a href="#" class="desktop-menu-link">Contact</a>
+			<a href="/" class="desktop-menu-link">Home</a>
+			<a href="/about-us/" class="desktop-menu-link">About Us</a>
+			<a href="/firm-values/" class="desktop-menu-link">Firm Values</a>
+			<a href="/legal-services/" class="desktop-menu-link">Legal Services</a>
+			<a href="/stories/" class="desktop-menu-link">Stories</a>
+			<a href="/contact/" class="desktop-menu-link">Contact</a>
 		</div>
 
 	</div><!-- #wrapper-navbar end -->
