@@ -4,13 +4,13 @@ body {
     background: #e1e1e1;
 }
 
-div#page {
+#page {
     min-height: 100vh;
     display: flex;
     flex-direction: row;
 }
 
-div#wrapper-navbar {
+#wrapper-navbar {
     width: 260px;
     background: #fff;
     display: flex;
