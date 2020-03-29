@@ -22,50 +22,55 @@ endwhile;
 
 <!-- BEGIN CONTENT -->
 
-<div class="row">
-	<div class="col-12">
-		<h1>Legal Services</h1>
+<div class="swl-flex-col">
+
+	<div class="row">
+		<div class="col-12">
+			<h1>Legal Services</h1>
+		</div>
 	</div>
+
+	<div class="row">
+		<div class="col-6">
+			<div class="card">
+				<div class="card-body">
+					<h2>Workplace Investgations & Training</h2>
+					<p>summary</p>
+					<a href="#">Read More →</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-6">
+			<div class="card">
+				<div class="card-body">
+					<h2>Workplace Investgations & Training</h2>
+					<p>summary</p>
+					<a href="#">Read More →</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-6">
+			<div class="card">
+				<div class="card-body">
+					<h2>Workplace Investgations & Training</h2>
+					<p>summary</p>
+					<a href="#">Read More →</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-6">
+			<div class="card">
+				<div class="card-body">
+					<h2>Workplace Investgations & Training</h2>
+					<p>summary</p>
+					<a href="#">Read More →</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
 </div>
 
-<div class="row">
-	<div class="col-6">
-		<div class="card">
-			<div class="card-body">
-				<h2>Workplace Investgations & Training</h2>
-				<p>summary</p>
-				<a href="#">Read More →</a>
-			</div>
-		</div>
-	</div>
-	<div class="col-6">
-		<div class="card">
-			<div class="card-body">
-				<h2>Workplace Investgations & Training</h2>
-				<p>summary</p>
-				<a href="#">Read More →</a>
-			</div>
-		</div>
-	</div>
-	<div class="col-6">
-		<div class="card">
-			<div class="card-body">
-				<h2>Workplace Investgations & Training</h2>
-				<p>summary</p>
-				<a href="#">Read More →</a>
-			</div>
-		</div>
-	</div>
-	<div class="col-6">
-		<div class="card">
-			<div class="card-body">
-				<h2>Workplace Investgations & Training</h2>
-				<p>summary</p>
-				<a href="#">Read More →</a>
-			</div>
-		</div>
-	</div>
-</div>
 
 <!-- END CONTENT -->
 

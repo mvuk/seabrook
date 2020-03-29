@@ -50,6 +50,12 @@ body {
     flex-grow: 1;
 }
 
+.swl-flex-col {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
 .left-col-image {
     background: #ddd;
     background: #84878a;
