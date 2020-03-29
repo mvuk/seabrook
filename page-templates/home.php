@@ -22,9 +22,26 @@ endwhile;
 
 <!-- BEGIN CONTENT -->
 
-<div class="row">
-	<div class="col-12">
-		<p>test sample</p>
+
+<div class="swl-flex-row contact">
+	<div class="left-col-image">
+
+	</div>
+	<div class="right-content contact-vertical-split">
+		<div class="contact-summary">
+			<div class="row">
+				<div class="col">
+					<h1>An Employment Law firm for all.</h1>
+				</div>
+			</div>
+		</div>
+		<div class="contact-form">
+			<div class="row">
+				<div class="col">
+					<p>introduction content</p>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 

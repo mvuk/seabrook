@@ -71,6 +71,30 @@ body {
     margin-right: 0;
 }
 
+// HOME
+
+.home-vertical-split {
+    display: flex;
+    flex-direction: column;
+    
+    p {
+        color: #fff;
+    }
+    
+    .home-summary {
+        background: #36435b;
+        height: 40vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+    .contact-form {
+        background: #faf1e0;
+        height: 60vh;
+        padding-top: 15px;
+    }
+}
+
 // CONTACT PAGE
 
 .contact-vertical-split {
