@@ -25,13 +25,16 @@ $container = get_theme_mod( 'understrap_container_type' );
 <?php do_action( 'wp_body_open' ); ?>
 <div class="site" id="page">
 
+	<link rel="stylesheet" href="https://use.typekit.net/udh7lti.css">
+
 	<!-- ******************* The Navbar Area ******************* -->
 	<div id="wrapper-navbar" class="navbar-desktop">
 
-		<img src="/wp-content/uploads/2020/03/seabrook-logo-graphic.png" alt="Seabrook Workplace Law">
+		<a href="/">
+			<img src="/wp-content/uploads/2020/03/seabrook-logo-vertical.png" alt="Seabrook Workplace Law">	
+		</a>
 
 		<div class="desktop-menu">
-		
 			<a href="#" class="desktop-menu-link">Home</a>
 			<a href="#" class="desktop-menu-link">About Us</a>
 			<a href="#" class="desktop-menu-link">Firm Values</a>
