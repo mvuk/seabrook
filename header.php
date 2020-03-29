@@ -26,18 +26,18 @@ $container = get_theme_mod( 'understrap_container_type' );
 <div class="site" id="page">
 
 	<!-- ******************* The Navbar Area ******************* -->
-	<div id="wrapper-navbar">
+	<div id="wrapper-navbar desktop">
 
-		<p>seabrook workplace law</p>
+		<img src="/wp-content/uploads/2020/03/seabrook-logo-graphic.png" alt="Seabrook Workplace Law">
 
 		<div class="desktop-menu">
 		
-			<a href="#">Home</a>
-			<a href="#">About Us</a>
-			<a href="#">Firm Values</a>
-			<a href="#">Legal Services</a>
-			<a href="#">Stories</a>
-			<a href="#">Contact</a>
+			<a href="#" class="desktop-menu-link">Home</a>
+			<a href="#" class="desktop-menu-link">About Us</a>
+			<a href="#" class="desktop-menu-link">Firm Values</a>
+			<a href="#" class="desktop-menu-link">Legal Services</a>
+			<a href="#" class="desktop-menu-link">Stories</a>
+			<a href="#" class="desktop-menu-link">Contact</a>
 		</div>
 
 	</div><!-- #wrapper-navbar end -->

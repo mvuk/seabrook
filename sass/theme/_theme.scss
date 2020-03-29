@@ -13,3 +13,22 @@ div#page {
 .wrapper-navbar {
     background: #fff
 }
+
+div#wrapper-navbar {
+    max-width: 260px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.desktop-menu {
+    display: flex;
+    flex-direction: column;
+    padding-left: 60px;
+    padding-bottom: 30px;
+
+    .desktop-menu-link {
+        margin-bottom: 1rem;
+    }
+}
