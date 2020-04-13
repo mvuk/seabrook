@@ -95,6 +95,32 @@ body {
     }
 }
 
+// LEGAL SERVICES
+
+.legal-services {
+    .introduction {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        background: #36435b;
+        color: #fff;
+        padding-left: 36px;
+        padding-right: 36px;
+    }
+    .service-group {
+        background: #faf1e0;
+        border-bottom: 1px solid #dacbae;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .service-links {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+
 // CONTACT PAGE
 
 .contact-vertical-split {
