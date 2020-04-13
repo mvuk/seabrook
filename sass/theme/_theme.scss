@@ -101,6 +101,17 @@ body {
     }
 }
 
+//
+
+.service-left-menu {
+    display: flex;
+    flex-direction: column;
+    p {
+        margin-top: 1rem;
+    }
+}
+
+
 // LEGAL SERVICES
 
 .introduction {
