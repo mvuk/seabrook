@@ -40,16 +40,16 @@ endwhile;
 				<div class="row">
 					<div class="col">
 						<div class="service-link-container">
-							<a href="#">Sample Service</a>
-							<a href="#">Sample Service</a>
-							<a href="#">Sample Service</a>						
+							<a href="/legal-services/sample-service">Sample Service</a>
+							<a href="/legal-services/sample-service">Sample Service</a>
+							<a href="/legal-services/sample-service">Sample Service</a>						
 						</div>
 					</div>
 					<div class="col">
 						<div class="service-link-container">
-							<a href="#">Sample Service</a>
-							<a href="#">Sample Service</a>
-							<a href="#">Sample Service</a>						
+							<a href="/legal-services/sample-service">Sample Service</a>
+							<a href="/legal-services/sample-service">Sample Service</a>
+							<a href="/legal-services/sample-service">Sample Service</a>						
 						</div>
 					</div>
 				</div>
@@ -63,17 +63,17 @@ endwhile;
 				<div class="row">
 					<div class="col">
 						<div class="service-link-container">
-							<a href="#">Sample Service</a>
-							<a href="#">Sample Service</a>
-							<a href="#">Sample Service</a>						
+							<a href="/legal-services/sample-service">Sample Service</a>
+							<a href="/legal-services/sample-service">Sample Service</a>
+							<a href="/legal-services/sample-service">Sample Service</a>						
 						</div>
 
 					</div>
 					<div class="col">
 						<div class="service-link-container">
-							<a href="#">Sample Service</a>
-							<a href="#">Sample Service</a>
-							<a href="#">Sample Service</a>						
+							<a href="/legal-services/sample-service">Sample Service</a>
+							<a href="/legal-services/sample-service">Sample Service</a>
+							<a href="/legal-services/sample-service">Sample Service</a>						
 						</div>
 
 					</div>
@@ -88,14 +88,14 @@ endwhile;
 				<div class="row">
 					<div class="col">
 						<div class="service-link-container">
-							<a href="#">Workplace Investigations</a>
-							<a href="#">Workplace Climate Reviews</a>
-							<a href="#">Workplace Restorative Mediation</a>						</div>
+							<a href="/legal-services/sample-service">Workplace Investigations</a>
+							<a href="/legal-services/sample-service">Workplace Climate Reviews</a>
+							<a href="/legal-services/sample-service">Workplace Restorative Mediation</a>						</div>
 						</div>
 					</div>
 					<div class="col">
 						<div class="service-link-container">
-							<a href="#">Workplace Training</a>
+							<a href="/legal-services/sample-service">Workplace Training</a>
 						</div>					
 					</div>
 				</div>
