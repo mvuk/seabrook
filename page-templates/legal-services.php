@@ -22,52 +22,71 @@ endwhile;
 
 <!-- BEGIN CONTENT -->
 
-<div class="swl-flex-col">
+<div class="swl-flex-col legal-services">
 
-	<div class="row">
-		<div class="col-12">
-			<h1>Legal Services</h1>
+	<div class="introduction">
+		<div class="row">
+			<div class="col-12">
+				<h1>Legal Services</h1>
+			</div>
 		</div>
 	</div>
 
-	<div class="row">
-		<div class="col-6">
-			<div class="card">
-				<div class="card-body">
-					<h2>Workplace Investgations & Training</h2>
-					<p>summary</p>
-					<a href="#">Read More →</a>
+	<div class="vertical-stack-service-group">
+		<div class="service-group">
+			<h2>For Employees</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.  Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+			<div class="service-links">
+				<div class="service-link-col">
+					<a href="#">Sample Service</a>
+					<a href="#">Sample Service</a>
+					<a href="#">Sample Service</a>
 				</div>
-			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<div class="card-body">
-					<h2>Workplace Investgations & Training</h2>
-					<p>summary</p>
-					<a href="#">Read More →</a>
-				</div>
-			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<div class="card-body">
-					<h2>Workplace Investgations & Training</h2>
-					<p>summary</p>
-					<a href="#">Read More →</a>
-				</div>
-			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<div class="card-body">
-					<h2>Workplace Investgations & Training</h2>
-					<p>summary</p>
-					<a href="#">Read More →</a>
+				<div class="service-link-col">
+					<a href="#">Sample Service</a>
+					<a href="#">Sample Service</a>
+					<a href="#">Sample Service</a>
 				</div>
 			</div>
 		</div>
 	</div>
+
+	<div class="vertical-stack-service-group">
+		<div class="service-group">
+			<h2>For Employers</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.  Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+			<div class="service-links">
+				<div class="service-link-col">
+					<a href="#">Sample Service</a>
+					<a href="#">Sample Service</a>
+					<a href="#">Sample Service</a>
+				</div>
+				<div class="service-link-col">
+					<a href="#">Sample Service</a>
+					<a href="#">Sample Service</a>
+					<a href="#">Sample Service</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="vertical-stack-service-group">
+		<div class="service-group">
+			<h2>Workplace Investigations and Training</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.  Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+			<div class="service-links">
+				<div class="service-link-col">
+					<a href="#">Workplace Investigations</a>
+					<a href="#">Workplace Climate Reviews</a>
+					<a href="#">Workplace Restorative Mediation</a>
+				</div>
+				<div class="service-link-col">
+					<a href="#">Workplace Training</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
 
 </div>
 
