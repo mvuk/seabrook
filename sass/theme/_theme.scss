@@ -103,34 +103,33 @@ body {
 
 // LEGAL SERVICES
 
-.legal-services {
-    .introduction {
-        padding-top: 100px;
-        padding-bottom: 100px;
-        background: #36435b;
-        color: #fff;
-        padding-left: 36px;
-        padding-right: 36px;
-    }
-    .service-group {
-        background: #faf1e0;
-        border-bottom: 1px solid #dacbae;
-        padding-top: 50px;
-        padding-bottom: 50px;
-        padding-left: 50px;
-        padding-right: 50px;
-    }
-    .service-links {
-        display: flex;
-        flex-direction: row;
-    }
-    .service-link-container {
-        display: flex;
-        flex-direction: column;
-        margin-left: -15px;
-        margin-right: 15px;
-    }
+.introduction {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #36435b;
+    color: #fff;
+    padding-left: 36px;
+    padding-right: 36px;
 }
+.service-group {
+    background: #faf1e0;
+    border-bottom: 1px solid #dacbae;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.service-links {
+    display: flex;
+    flex-direction: row;
+}
+.service-link-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: -15px;
+    margin-right: 15px;
+}
+
 
 
 // CONTACT PAGE
