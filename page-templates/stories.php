@@ -34,7 +34,7 @@ endwhile;
 
 	<div class="vertical-stack-service-group">
 		<div class="service-group">
-			<div class="stories-list">
+			<div class="story-content">
 				<a href="/stories/sample-story" class="story-link">
 					<h2>Story Title</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor.</p>
