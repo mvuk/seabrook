@@ -39,14 +39,18 @@ endwhile;
 			<div class="service-links">
 				<div class="row">
 					<div class="col">
-						<a href="#">Sample Service</a>
-						<a href="#">Sample Service</a>
-						<a href="#">Sample Service</a>
+						<div class="service-link-container">
+							<a href="#">Sample Service</a>
+							<a href="#">Sample Service</a>
+							<a href="#">Sample Service</a>						
+						</div>
 					</div>
 					<div class="col">
-						<a href="#">Sample Service</a>
-						<a href="#">Sample Service</a>
-						<a href="#">Sample Service</a>
+						<div class="service-link-container">
+							<a href="#">Sample Service</a>
+							<a href="#">Sample Service</a>
+							<a href="#">Sample Service</a>						
+						</div>
 					</div>
 				</div>
 			</div>
@@ -58,14 +62,20 @@ endwhile;
 			<div class="service-links">
 				<div class="row">
 					<div class="col">
-						<a href="#">Sample Service</a>
-						<a href="#">Sample Service</a>
-						<a href="#">Sample Service</a>
+						<div class="service-link-container">
+							<a href="#">Sample Service</a>
+							<a href="#">Sample Service</a>
+							<a href="#">Sample Service</a>						
+						</div>
+
 					</div>
 					<div class="col">
-						<a href="#">Sample Service</a>
-						<a href="#">Sample Service</a>
-						<a href="#">Sample Service</a>
+						<div class="service-link-container">
+							<a href="#">Sample Service</a>
+							<a href="#">Sample Service</a>
+							<a href="#">Sample Service</a>						
+						</div>
+
 					</div>
 				</div>
 			</div>
@@ -77,12 +87,16 @@ endwhile;
 			<div class="service-links">
 				<div class="row">
 					<div class="col">
-						<a href="#">Workplace Investigations</a>
-						<a href="#">Workplace Climate Reviews</a>
-						<a href="#">Workplace Restorative Mediation</a>
+						<div class="service-link-container">
+							<a href="#">Workplace Investigations</a>
+							<a href="#">Workplace Climate Reviews</a>
+							<a href="#">Workplace Restorative Mediation</a>						</div>
+						</div>
 					</div>
 					<div class="col">
-						<a href="#">Workplace Training</a>
+						<div class="service-link-container">
+							<a href="#">Workplace Training</a>
+						</div>					
 					</div>
 				</div>
 			</div>
