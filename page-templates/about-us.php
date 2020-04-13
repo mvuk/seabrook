@@ -22,7 +22,7 @@ endwhile;
 
 <!-- BEGIN CONTENT -->
 
-<div class="swl-flex-col firm-values">
+<div class="swl-flex-col">
 
 	<div class="introduction">
 		<div class="row">
