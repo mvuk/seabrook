@@ -15,31 +15,27 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <?php get_template_part( 'sidebar-templates/sidebar', 'footerfull' ); ?>
 
-<div class="wrapper" id="wrapper-footer">
+<div class="swl-footer">
+	<div class="row">
+		<div class="col-md-6">
+			<!--  -->
+			<p>footer menu</p>
 
-	<div class="<?php echo esc_attr( $container ); ?>">
+			<!--  -->
+		</div>
+		<div class="col-md-6">
+			<p>Follow us on Social Media</p>
+			<p>Instagram images</p>
+			<p>Footer social links</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p>Seabrook Workplace Law 2020. All Rights Reserved.</p>
+		</div>
+	</div>
+</div>
 
-		<div class="row">
-
-			<div class="col-md-12">
-
-				<footer class="site-footer" id="colophon">
-
-					<div class="site-info">
-
-						<?php understrap_site_info(); ?>
-
-					</div><!-- .site-info -->
-
-				</footer><!-- #colophon -->
-
-			</div><!--col end -->
-
-		</div><!-- row end -->
-
-	</div><!-- container end -->
-
-</div><!-- wrapper end -->
 
 </div><!-- #page we need this extra closing tag here -->
 
@@ -48,4 +44,3 @@ $container = get_theme_mod( 'understrap_container_type' );
 </body>
 
 </html>
-
