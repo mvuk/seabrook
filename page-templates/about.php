@@ -29,6 +29,17 @@ endwhile;
 </div>
 
 
+<div class="container">
+	<div class="row">
+		<div class="col-md-6">
+				<h2>Good people, good values</h2>
+		</div>
+		<div class="col-md-6">
+			<p>[img]</p>
+		</div>
+	</div>
+</div>
+
 
 <div class="blog-section">
 	<div class="container">
