@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Home 
+ * Template Name: Home
  *
  * Template for displaying a page just with the header and footer area and a "naked" content area in between.
  * Good for landingpages and other types of pages where you want to add a lot of custom markup.
@@ -21,7 +21,7 @@ endwhile;
 ?>
 
 <div class="swl-dark-banner">
-	<div class="swl-dark-banner-content">
+	<div class="container">
 
 		<p>Quote about SWL placed here</p>
 

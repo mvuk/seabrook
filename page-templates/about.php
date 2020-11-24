@@ -21,7 +21,7 @@ endwhile;
 ?>
 
 <div class="swl-dark-banner">
-	<div class="swl-dark-banner-content">
+	<div class="container">
 
 		<p>Quote about SWL placed here</p>
 

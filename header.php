@@ -38,7 +38,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 					<div class="header-links">
 						<a href="/">Home</a>
 						<a href="/about">About</a>
-						<a href="/values">Services</a>
+						<a href="/services">Services</a>
 					</div>
 					<div class="logo">
 						<img src="/wp-content/uploads/2020/11/SWL_Logo_Web.png" alt="">
