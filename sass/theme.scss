@@ -5,8 +5,7 @@
 
 // Optional files - If you dont use the corresponding scripts/fonts comment em out
 @import "assets/font-awesome";    // <-------- Font Awesome Icon font
-@import "assets/underscores";     // <-------- Underscores media styles
 
 // Any additional imported files //
-@import "theme/_theme";            // <-------- That's where you can add your own design
+@import "theme/theme";            // <-------- That's where you can add your own design. Thats your part!
 @import "theme/contact-form7";    // <-------- Contact Form 7 - Bootstrap 4 support
