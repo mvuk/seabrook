@@ -28,6 +28,8 @@
     background-repeat: no-repeat;
 
     display: flex;
+    flex-direction: row;
+    align-items: center;
 
     p {
       color: $white;
