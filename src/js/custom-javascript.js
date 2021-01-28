@@ -1,9 +1,9 @@
 function openMenu() {
   console.log('openMenu');
-  document.getElementById('overlayMenu').removeClass('displayNone');
+  document.getElementById('overlay-menu').removeClass('displayNone');
 }
 
 function closeMenu() {
   console.log('closeMenu');
-  document.getElementById('overlayMenu').addClass('displayNone');
+  document.getElementById('overlay-menu').addClass('displayNone');
 }
