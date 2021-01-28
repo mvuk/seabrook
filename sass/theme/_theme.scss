@@ -19,11 +19,16 @@
   .overlay-menu-right {
     flex-grow: 1;
     width: 50%;
+    display: flex;
+    flex-direction: column;
 
     .image {
       background-image: url('/wp-content/uploads/2021/01/seabrook-workplace-law-team-meeting-fun.jpg');
       background-size: cover;
       background-position: center center;
+
+      flex-grow: 1;
+      max-height: 55vh;
     }
     .contact {
 
