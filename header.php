@@ -32,7 +32,9 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<div class="overlay-menu-left">
 		<div class="overlay-menu-container">
 			<div class="logo">
-				<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="">
+				<a href="/">
+					<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="">
+				</a>
 			</div>
 			<div class="menu">
 				<a href="/" class="menu-item">Home</a>
