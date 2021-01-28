@@ -20,45 +20,7 @@ endwhile;
 
 ?>
 
-<div class="swl-dark-banner">
-	<div class="container">
 
-		<p>Quote about SWL placed here</p>
-
-	</div>
-</div>
-
-<p>home</p>
-
-<div class="blog-section">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<p>latest from our workplace law blog</p>
-			</div>
-			<div class="col-md-4">
-				<p>[blog img]</p>
-			</div>
-			<div class="col-md-4">
-				<p>[blog img]</p>
-			</div>
-			<div class="col-md-4">
-				<p>[blog img]</p>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="contact-section">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<h2>How can we help?</h2>
-				<p>Contact us</p>
-			</div>
-		</div>
-	</div>
-</div>
 
 <?php
 
