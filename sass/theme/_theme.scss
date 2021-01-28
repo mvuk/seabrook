@@ -131,17 +131,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .arrow-oval-link {
+  border-radius: 30px;
   a {
 
   }
   i {
 
   }
-  &:hover {
-    background: $blue;
-    border-color: #fff;
-    a, i {
-      color: #fff;
-    }
+}
+.arrow-oval-link:hover {
+  background: $blue;
+  border-color: #fff;
+  a, i {
+    color: #fff;
   }
 }
