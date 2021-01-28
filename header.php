@@ -86,6 +86,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="text">
 				<h2>Secure yourself with Seabrook.</h2>
 				<p>Are you ready to work with Samantha and her team? Call us at 647.361.4410 or send us a message.</p>
+
 				<a href="arrow-oval-link">
 					<div class="text">
 						Make an enquiry
