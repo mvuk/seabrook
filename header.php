@@ -44,13 +44,13 @@ $container = get_theme_mod( 'understrap_container_type' );
 						<i class="fa fa-facebook-square"></i>
 					</a>
 					<a href="https://www.instagram.com/seabrookworkplacelaw">
-						<i class="fa fa-facebook-square"></i>
+						<i class="fa fa-instagram"></i>
 					</a>
 					<a href="https://twitter.com/SeabrookWorkLaw">
-						<i class="fa fa-facebook-square"></i>
+						<i class="fa fa-twitter"></i>
 					</a>
 					<a href="https://www.linkedin.com/company/seabrook-workplace-law/">
-						<i class="fa fa-facebook-square"></i>
+						<i class="fa fa-linkedin"></i>
 					</a>
 				</div>
 			</div>
