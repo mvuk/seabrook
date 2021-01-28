@@ -145,14 +145,15 @@ a.arrow-oval-link {
     font-size: 28px;
     line-height: 0.5;
     position: relative;
-    top: 4px;
+    top: 5px;
     margin-left: 8px;
     text-decoration: none !important;
   }
 }
-.arrow-oval-link:hover {
+a.arrow-oval-link:hover {
   background: $blue;
   border-color: #fff;
+  text-decoration: none !important;
   .text, i {
     color: #fff;
   }
