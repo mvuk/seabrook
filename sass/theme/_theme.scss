@@ -137,4 +137,11 @@ h1, h2, h3, h4, h5, h6 {
   i {
 
   }
+  &:hover {
+    background: $blue;
+    border-color: #fff;
+    a, i {
+      color: #fff;
+    }
+  }
 }
