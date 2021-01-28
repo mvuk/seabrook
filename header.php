@@ -25,8 +25,10 @@ $container = get_theme_mod( 'understrap_container_type' );
 <?php do_action( 'wp_body_open' ); ?>
 <div class="site" id="page">
 
+<p>[header]</p>
+
 	<!-- ******************* The Navbar Area ******************* -->
-	<div id="wrapper-navbar">
+	<!-- <div id="wrapper-navbar">
 
 		<a class="skip-link sr-only sr-only-focusable" href="#content"><?php esc_html_e( 'Skip to content', 'understrap' ); ?></a>
 
@@ -51,6 +53,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 			</div>
 
-		</nav><!-- .site-navigation -->
+		</nav>
 
-	</div><!-- #wrapper-navbar end -->
+	</div>-->
