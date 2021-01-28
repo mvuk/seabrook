@@ -119,6 +119,13 @@ h1, h2, h3, h4, h5, h6 {
         }
       }
 
+      .arrow-oval-link-container {
+          flex-grow: 1;
+          align-items: center;
+          justify-content: center;
+          display: flex;
+      }
+
     }
   }
 }
@@ -128,6 +135,6 @@ h1, h2, h3, h4, h5, h6 {
 
   }
   i {
-    
+
   }
 }
