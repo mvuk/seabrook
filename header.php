@@ -27,6 +27,53 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <p>[header]</p>
 
+<div id="overlay-menu">
+
+	<div class="overlay-menu-left">
+		<div class="overlay-menu-container">
+			<div class="logo">
+
+			</div>
+			<div class="menu">
+
+			</div>
+			<div class="social">
+				<p>Follow us</p>
+				<div class="social-links">
+					<a href="https://www.facebook.com/seabrookworkplacelaw">
+						<i class="fab fa-facebook-square"></i>
+					</a>
+					<a href="https://www.instagram.com/seabrookworkplacelaw">
+						<i class="fab fa-facebook-square"></i>
+					</a>
+					<a href="https://twitter.com/SeabrookWorkLaw">
+						<i class="fab fa-facebook-square"></i>
+					</a>
+					<a href="https://www.linkedin.com/company/seabrook-workplace-law/">
+						<i class="fab fa-facebook-square"></i>
+					</a>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	<div class="overlay-menu-right">
+		<div class="image">
+
+		</div>
+		<div class="contact">
+			<div class="text">
+				<h2>Get started with Seabrook.</h2>
+				<p>Are you ready to work with Samantha and her team? For new clients, reach out to us at hello@seabrookworkplacelaw.ca, call 647.361.4410 or visit us.</p>
+			</div>
+			<div class="enquiry">
+				<a href="#" class="">Make an enquiry</a>
+			</div>
+		</div>
+	</div>
+
+</div>
+
 	<!-- ******************* The Navbar Area ******************* -->
 	<!-- <div id="wrapper-navbar">
 
