@@ -19,6 +19,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 
+	<link rel="stylesheet" href="https://use.typekit.net/udh7lti.css">
+
 	<?php wp_head(); ?>
 </head>
 
