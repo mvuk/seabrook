@@ -41,16 +41,16 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<p>Follow us</p>
 				<div class="social-links">
 					<a href="https://www.facebook.com/seabrookworkplacelaw">
-						<i class="fab fa-facebook-square"></i>
+						<i class="fa fa-facebook-square"></i>
 					</a>
 					<a href="https://www.instagram.com/seabrookworkplacelaw">
-						<i class="fab fa-facebook-square"></i>
+						<i class="fa fa-facebook-square"></i>
 					</a>
 					<a href="https://twitter.com/SeabrookWorkLaw">
-						<i class="fab fa-facebook-square"></i>
+						<i class="fa fa-facebook-square"></i>
 					</a>
 					<a href="https://www.linkedin.com/company/seabrook-workplace-law/">
-						<i class="fab fa-facebook-square"></i>
+						<i class="fa fa-facebook-square"></i>
 					</a>
 				</div>
 			</div>

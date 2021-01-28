@@ -2,10 +2,24 @@
 
 #overlay-menu {
 
+  position: absolute;
+  top: 0;
+  height: 100vh;
+  background: $blue;
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+
   .overlay-menu-left {
+    flex-grow: 1;
+    width: 50%;
 
   }
   .overlay-menu-right {
+    flex-grow: 1;
+    width: 50%;
+
     .image {
       background-image: url('/wp-content/uploads/2021/01/seabrook-workplace-law-team-meeting-fun.jpg');
       background-size: cover;
