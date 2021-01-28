@@ -16,10 +16,15 @@
     flex-grow: 1;
     width: 50%;
 
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 25px 25px;
+
+    .overlay-menu-container {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 25px 25px;
+
+    }
 
     .logo {
       img {
