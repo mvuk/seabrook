@@ -16,6 +16,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+// helpers
+
+.displayNone {
+  display: none;
+}
 
 // WEBSITE
 
@@ -50,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 
     .logo {
       img {
-        max-width: 140px;
+        max-width: 120px;
       }
     }
     .menu {
@@ -58,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
       flex-direction: column;
       a.menu-item {
         color: #fff;
-        font-size: 36px;
+        font-size: 32px;
         font-weight: 500;
         letter-spacing: 1px;
       }

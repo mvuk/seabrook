@@ -28,9 +28,20 @@ $container = get_theme_mod( 'understrap_container_type' );
 <?php do_action( 'wp_body_open' ); ?>
 <div class="site" id="page">
 
-<p>[header]</p>
+<div class="row">
+	<div class="col-6">
+		<p>[swl header]</p>
+	</div>
+	<div class="col-6">
+		<p>[open menu]</p>
+	</div>
+</div>
 
-<div id="overlay-menu">
+<div id="overlay-menu" class="displayNone">
+
+	<div id="close-overlay" onclick="closeMenu()">
+		<i class="fa fa-times"></i>
+	</div>
 
 	<div class="overlay-menu-left">
 		<div class="overlay-menu-container">
@@ -74,7 +85,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 		<div class="contact">
 			<div class="text">
 				<h2>Secure yourself with Seabrook.</h2>
-				<p>Are you ready to work with Samantha and her team? For new clients, reach out to us at hello@seabrookworkplacelaw.ca, call 647.361.4410 or visit us.</p>
+				<p>Are you ready to work with Samantha and her team? Call us at 647.361.4410 or send us a message.</p>
 			</div>
 			<div class="enquiry">
 				<a href="#" class="">Make an enquiry</a>
