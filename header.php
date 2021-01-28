@@ -33,7 +33,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 		<p>[swl header]</p>
 	</div>
 	<div class="col-6">
-		<p>[open menu]</p>
+		<p onclick="openMenu()">[open menu]</p>
 	</div>
 </div>
 
