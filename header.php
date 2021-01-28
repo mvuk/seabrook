@@ -32,10 +32,15 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<div class="overlay-menu-left">
 		<div class="overlay-menu-container">
 			<div class="logo">
-
+				<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="">
 			</div>
 			<div class="menu">
-
+				<a href="/" class="menu-item">Home</a>
+				<a href="/our-values/" class="menu-item">Our Values</a>
+				<a href="/our-legal-team/" class="menu-item">Our Legal Team</a>
+				<a href="/workplace-law-services/" class="menu-item">Workplace Law Services</a>
+				<!-- <a href="#" class="menu-item">Blog</a> -->
+				<a href="/contact" class="menu-item">Contact</a>
 			</div>
 			<div class="social">
 				<p>Follow us</p>

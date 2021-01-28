@@ -2,6 +2,7 @@
 
 #overlay-menu {
 
+  z-index: 100;
   position: absolute;
   top: 0;
   height: 100vh;
@@ -31,7 +32,7 @@
       max-height: 55vh;
     }
     .contact {
-
+      background: $gray;
     }
   }
 }
