@@ -12,7 +12,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'neue-haas-unica',sans-serif;
   font-weight: 700;
   font-style: normal;
+  letter-spacing: 1px;
 }
+
 
 
 // WEBSITE
@@ -48,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 
     .logo {
       img {
-        max-width: 200px;
+        max-width: 140px;
       }
     }
     .menu {
@@ -67,13 +69,15 @@ h1, h2, h3, h4, h5, h6 {
         color: #fff;
         text-transform: uppercase;
         font-size: 14px;
-        letter-spacing: 1px;
+        letter-spacing: 2px;
       }
       .social-links {
         display: flex;
         flex-direction: row;
         i {
           color:#fff;
+          font-size: 22px;
+          margin-right: 22px;
         }
       }
     }
