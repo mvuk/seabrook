@@ -24,6 +24,11 @@ h1, h2, h3, h4, h5, h6 {
 
 // WEBSITE
 
+// MAIN MENU
+
+
+// OVERLAY MENU
+
 #overlay-menu {
 
   z-index: 100;
@@ -160,4 +165,15 @@ a.arrow-oval-link:hover {
   .text:hover, i:hover {
     text-decoration: none;
   }
+}
+
+div#close-overlay {
+    position: fixed;
+    top: 20px;
+    right: 25px;
+    background: #fff;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 6px 13px 9px 13px;
+    cursor: pointer;
 }
