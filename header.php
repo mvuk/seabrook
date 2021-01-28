@@ -73,7 +73,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 		</div>
 		<div class="contact">
 			<div class="text">
-				<h2>Get started with Seabrook.</h2>
+				<h2>Secure yourself with Seabrook.</h2>
 				<p>Are you ready to work with Samantha and her team? For new clients, reach out to us at hello@seabrookworkplacelaw.ca, call 647.361.4410 or visit us.</p>
 			</div>
 			<div class="enquiry">

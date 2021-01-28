@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 #overlay-menu {
 
   z-index: 100;
-  position: absolute;
+  position: fixed;
   top: 0;
   height: 100vh;
   background: $blue;
@@ -60,6 +60,7 @@ h1, h2, h3, h4, h5, h6 {
         color: #fff;
         font-size: 36px;
         font-weight: 500;
+        letter-spacing: 1px;
       }
     }
     .social {
