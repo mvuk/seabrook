@@ -135,7 +135,10 @@ a.arrow-oval-link {
   border: 1px solid;
   border-color: $blue;
   padding: 8px 16px;
-
+  display: inline-flex;
+  .text {
+    font-weight: 600;
+  }
   i {
     color: $blue;
 
@@ -149,10 +152,10 @@ a.arrow-oval-link {
 .arrow-oval-link:hover {
   background: $blue;
   border-color: #fff;
-  a, i {
+  .text, i {
     color: #fff;
   }
-  a:hover {
+  .text:hover, i:hover {
     text-decoration: none;
   }
 }
