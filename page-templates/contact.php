@@ -29,7 +29,6 @@ endwhile;
 	</div>
 </div>
 
-<p>contact</p>
 
 <div class="blog-section">
 	<div class="container">
