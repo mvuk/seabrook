@@ -330,4 +330,9 @@ div#close-overlay {
 .wide-header-dark {
     background: $blue;
     padding: 40px 40px;
+
+    .wide-header-dark-content {
+      display: flex;
+      flex-direction: column;
+    }
 }
