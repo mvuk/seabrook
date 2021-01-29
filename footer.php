@@ -15,7 +15,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <?php get_template_part( 'sidebar-templates/sidebar', 'footerfull' ); ?>
 
-<p>footer</p>
+
 
 
 <?php wp_footer(); ?>
