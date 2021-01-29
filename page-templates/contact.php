@@ -56,33 +56,10 @@ endwhile;
 	</div>
 
 	<div class="half-content services">
-
 		<div class="row">
 
-			<div class="col-md-4">
-				<div class="service-group">
-					<h2>Investigations & Training</h2>
-					<p>Short summary about this service. Short summary about this service. Short summary about this service.</p>
-					<a href="/workplace-law-services/investigations-training/">Learn more</a>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="service-group">
-					<h2>Employees</h2>
-					<p>Short summary about this service. Short summary about this service. Short summary about this service.</p>
-					<a href="/workplace-law-services/employees">Learn more</a>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="service-group">
-					<h2>Employers</h2>
-					<p>Short summary about this service. Short summary about this service. Short summary about this service.</p>
-					<a href="/workplace-law-services/employers">Learn more</a>
-				</div>
-			</div>
 
 		</div>
-
 	</div>
 
 </div>
