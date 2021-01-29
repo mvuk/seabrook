@@ -306,11 +306,17 @@ div#close-overlay {
     }
     .half-content {
       flex-grow: 1;
-
-      margin-left: 35%;
-      max-width: 60%;
+      padding-top: 4rem;
+      margin-left: 40%;
+      max-width: 50%;
     }
 }
 
 
 // TEAM PAGE
+
+.team-card {
+    display: flex;
+    margin-bottom: 4rem;
+  
+}
