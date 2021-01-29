@@ -33,14 +33,12 @@ endwhile;
 						<div class="text">
 							Find out more
 						</div>
-						<div class="down-arrow">
-							<img src="" alt="">
-						</div>
+						<i class="fa fa-long-arrow-down"></i>
 					</a>
 				</div>
 			</div>
 		</div>
-		<div class="col-md-6 home-image">
+		<div class="col home-image">
 
 		</div>
 
