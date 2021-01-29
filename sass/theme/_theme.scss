@@ -27,9 +27,8 @@ h1, h2, h3, h4, h5, h6 {
 // MAIN MENU
 
 img.logo {
-
+  max-width: 140px;
 }
-
 
 // OVERLAY MENU
 
@@ -180,4 +179,15 @@ div#close-overlay {
     border-radius: 50%;
     padding: 6px 13px 9px 13px;
     cursor: pointer;
+}
+
+// HOME PAGE
+.home-slider-container {
+  .home-left {
+    background: $gray;
+  }
+  .home-image {
+    background: url('http://theiphone.staging.wpengine.com/wp-content/uploads/2021/01/samantha-seabrook-toronto-skyline.jpg')
+  }
+
 }

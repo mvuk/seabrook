@@ -20,7 +20,7 @@ endwhile;
 
 ?>
 
-<div class="container-fluid">
+<div class="container-fluid home-slider-container">
 
 <div class="row">
 
