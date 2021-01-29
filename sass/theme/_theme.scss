@@ -248,5 +248,15 @@ div#close-overlay {
         font-size: 20px;
       }
     }
+}
 
+.three-items {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+
+    .item {
+      img {
+        margin-bottom: 1rem;
+      }
+    }
 }

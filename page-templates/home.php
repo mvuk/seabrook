@@ -76,7 +76,7 @@ endwhile;
 					<img src="/wp-content/uploads/2021/01/201122-RV-Seabrook-WPL-6770.jpg" alt="">
 					<h3>Our Values</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					
+
 				</div>
 			</div>
 
