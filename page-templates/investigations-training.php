@@ -20,7 +20,7 @@ endwhile;
 
 ?>
 
-<div class="wide-header-dark">
+<div class="wide-header-dark service">
 
 		<div class="wide-header-dark-content">
 			<a href="/" class="logo-link">
