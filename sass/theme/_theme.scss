@@ -282,6 +282,10 @@ div#close-overlay {
 
     .half-header {
       flex-grow: 1;
+      background: $blue;
+      .half-header-container {
+        
+      }
     }
     .half-content {
       flex-grow: 1;
