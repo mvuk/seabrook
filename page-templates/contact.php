@@ -20,44 +20,71 @@ endwhile;
 
 ?>
 
-<div class="swl-dark-banner">
+<div class="page-halves">
 
-	<div class="container">
+	<div class="half-header">
 
-		<p>Quote about SWL placed here</p>
+			<div class="half-header-content">
+				<a href="/">
+					<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
+				</a>
+				<div class="text">
+					<h1>Contact</h1>
+					<p>Seabrook Workplace Law<br>30 Wellington Street West, 5th Floor<br>Toronto, Ontario M5L 1E2</p>
+					<p>Phone: 647.361.4410<br>Fax: 647.361.3143</p>
+					<p>Email:samantha@seabrookworkplacelaw.ca</p>
+				</div>
+				<div class="social">
+					<p>Follow us</p>
+					<div class="social-links">
+						<a href="https://www.facebook.com/seabrookworkplacelaw">
+							<i class="fa fa-facebook-square"></i>
+						</a>
+						<a href="https://www.instagram.com/seabrookworkplacelaw">
+							<i class="fa fa-instagram"></i>
+						</a>
+						<a href="https://twitter.com/SeabrookWorkLaw">
+							<i class="fa fa-twitter"></i>
+						</a>
+						<a href="https://www.linkedin.com/company/seabrook-workplace-law/">
+							<i class="fa fa-linkedin"></i>
+						</a>
+					</div>
+				</div>
+			</div>
 
 	</div>
-</div>
 
+	<div class="half-content services">
 
-<div class="blog-section">
-	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
-				<p>latest from our workplace law blog</p>
-			</div>
-			<div class="col-md-4">
-				<p>[blog img]</p>
-			</div>
-			<div class="col-md-4">
-				<p>[blog img]</p>
-			</div>
-			<div class="col-md-4">
-				<p>[blog img]</p>
-			</div>
-		</div>
-	</div>
-</div>
 
-<div class="contact-section">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<h2>How can we help?</h2>
-				<p>Contact us</p>
+			<div class="col-md-4">
+				<div class="service-group">
+					<h2>Investigations & Training</h2>
+					<p>Short summary about this service. Short summary about this service. Short summary about this service.</p>
+					<a href="/workplace-law-services/investigations-training/">Learn more</a>
+				</div>
 			</div>
+			<div class="col-md-4">
+				<div class="service-group">
+					<h2>Employees</h2>
+					<p>Short summary about this service. Short summary about this service. Short summary about this service.</p>
+					<a href="/workplace-law-services/employees">Learn more</a>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-group">
+					<h2>Employers</h2>
+					<p>Short summary about this service. Short summary about this service. Short summary about this service.</p>
+					<a href="/workplace-law-services/employers">Learn more</a>
+				</div>
+			</div>
+
 		</div>
+
 	</div>
+
 </div>
 
 <?php
