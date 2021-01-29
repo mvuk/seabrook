@@ -60,7 +60,7 @@ endwhile;
 
 		<div class="row row-two ">
 			<div class="col-md-9">
-				<p>Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all. Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all. Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all. Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all.</p>
+				<p>Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all. Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all. Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all.</p>
 			</div>
 		</div>
 

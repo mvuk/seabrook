@@ -201,6 +201,17 @@ div#close-overlay {
 
   .home-left {
     background: $gray;
+
+    .home-introduction {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      h1 {
+        color: $blue;
+      }
+
+    }
   }
   .home-image {
     background: url('http://theiphone.staging.wpengine.com/wp-content/uploads/2021/01/samantha-seabrook-toronto-skyline.jpg');
@@ -214,14 +225,21 @@ div#close-overlay {
 
 #blue-bb {
     background: $blue;
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+
+    h2,p {
+      color: #fff;
+    }
 
     .row-one {
       margin-bottom: 4rem;
     }
 
-    h2,p {
-      color: #fff;
+    .row-two {
+      p {
+        font-size: 20px;
+      }
     }
+
 }
