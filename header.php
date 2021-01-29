@@ -28,15 +28,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 <?php do_action( 'wp_body_open' ); ?>
 <div class="site" id="page">
 
-<div class="row">
-	<div class="col-6">
-		<p>[swl header]</p>
-	</div>
-	<div class="col-6">
-		<p onclick="openMenu()">[open menu]</p>
-	</div>
-</div>
-
 <div id="open-menu-staging" onclick="openMenu()">
 	<div class="hamburger">
 		<i class="fa fa-bars"></i>
