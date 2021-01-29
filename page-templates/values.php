@@ -21,6 +21,20 @@ endwhile;
 ?>
 
 
+<div class="wide-header-dark">
+
+		<div class="wide-header-dark-content">
+			<a href="/" class="logo-link">
+				<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
+			</a>
+			<!-- RETURN AREA -->
+			<a href="/our-legal-team/" class="return-btn">Return to legal team</a>
+			<!-- END RETURN AREA -->
+			<h1>Our Values</h1>
+			<p>content area</p>
+		</div>
+
+</div>
 
 <?php
 
