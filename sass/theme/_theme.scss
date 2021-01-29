@@ -370,3 +370,19 @@ div#close-overlay {
 .wide-content {
   padding: 40px 40px;
 }
+
+// VALUES
+
+.wide-header-dark.about {
+  a.logo-link {
+      margin-bottom: 4rem;
+  }
+  h1 {
+      font-size: 52px;
+      margin-bottom: 2rem;
+  }
+  p {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+}
