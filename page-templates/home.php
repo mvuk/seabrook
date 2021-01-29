@@ -118,7 +118,7 @@ endwhile;
 				<div class="gray-bar-services">
 					<h2>Workplace Legal Services</h2>
 					<p>just like gray bar on phantom.house</p>
-					<a href="#">
+					<a href="/workplace-law-services/">
 						<div class="text">
 							View all services
 						</div>
