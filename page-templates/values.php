@@ -21,17 +21,17 @@ endwhile;
 ?>
 
 
-<div class="wide-header-dark">
+<div class="wide-header-dark about">
 
 		<div class="wide-header-dark-content">
 			<a href="/" class="logo-link">
 				<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
 			</a>
-			<!-- RETURN AREA -->
-			<a href="/our-legal-team/" class="return-btn">Return to legal team</a>
-			<!-- END RETURN AREA -->
+
 			<h1>Our Values</h1>
-			<p>content area</p>
+			<p>Roaming this world in his creative paths, exploring the inevitable limits of the human perception and artificial creativity.</p>
+			<p>The fear of white paper, the anxiety of a deadline, the blood rush of creation, the happiness of production; all of them embodied in an airy, mystical and mysterious form.</p>
+			<p>We are pilgrims, devoted disciples in all creative projects of the phantom. All the way. Phantom choose us. We obey.</p>
 		</div>
 
 </div>
