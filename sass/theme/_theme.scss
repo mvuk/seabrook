@@ -289,11 +289,17 @@ div#close-overlay {
       padding: 40px 40px;
       flex-grow: 1;
 
-      .half-header-contet {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        flex-grow: 1;
+      .half-header-content {
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+
+          h1, p {
+            color: #fff;
+          }
+          h1 {
+            margin-bottom: 1rem;
+          }
       }
 
 

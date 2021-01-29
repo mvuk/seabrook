@@ -26,9 +26,14 @@ endwhile;
 
 			<div class="half-header-content">
 				<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
-				<h1>Who makes it happen?</h1>
-				<p>Our legal team is top notch lawyers only. They are competent and happy and skilled.</p>
-				<p>Explore the profiles of our lawyers.</p>
+				<div class="text">
+					<h1>Who makes it happen?</h1>
+					<p>Our legal team is top notch lawyers only. They are competent and happy and skilled.</p>
+					<p>Explore the profiles of our lawyers.</p>
+				</div>
+				<div class="filler-area">
+
+				</div>
 			</div>
 
 	</div>
