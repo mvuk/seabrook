@@ -274,5 +274,19 @@ div#close-overlay {
   }
 }
 
+// PAGE HALVES
+
+.page-halves {
+    display: flex;
+    flex-direction: row;
+
+    .half-header {
+      flex-grow: 1;
+    }
+    .half-content {
+      flex-grow: 1;
+    }
+}
+
 
 // TEAM PAGE

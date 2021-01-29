@@ -22,7 +22,7 @@ endwhile;
 
 <div class="page-halves">
 
-	<div class="half-container">
+	<div class="half-header">
 
 		<div class="left-area">
 			<div class="left-area-container">
@@ -35,7 +35,7 @@ endwhile;
 
 	</div>
 
-	<div class="page-content half-page">
+	<div class="half-content">
 
 		<div class="row">
 			<div class="col-md-12">
