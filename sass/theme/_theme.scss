@@ -182,12 +182,18 @@ div#close-overlay {
 }
 
 // HOME PAGE
+
 .home-slider-container {
+  min-height: 100vh;
+  display: flex;
+
   .home-left {
     background: $gray;
   }
   .home-image {
-    background: url('http://theiphone.staging.wpengine.com/wp-content/uploads/2021/01/samantha-seabrook-toronto-skyline.jpg')
+    background: url('http://theiphone.staging.wpengine.com/wp-content/uploads/2021/01/samantha-seabrook-toronto-skyline.jpg');
+    background-size: cover;
+    background-position: 0% 60%;
   }
 
 }

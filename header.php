@@ -37,6 +37,12 @@ $container = get_theme_mod( 'understrap_container_type' );
 	</div>
 </div>
 
+<div id="open-menu-staging" onclick="openMenu()">
+	<div class="hamburger">
+		<i class="fa fa-bars"></i>
+	</div>
+</div>
+
 <div id="overlay-menu" class="displayNone">
 
 	<div id="close-overlay" onclick="closeMenu()">
