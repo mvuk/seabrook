@@ -334,5 +334,21 @@ div#close-overlay {
     .wide-header-dark-content {
       display: flex;
       flex-direction: column;
+
+      a.logo-link {
+        margin-bottom: 2rem;
+      }
+      .return-btn {
+
+      }
+      h1, h2 {
+        color: #fff;
+      }
     }
+}
+
+a.border-btn {
+  border: 1px solid #fff;
+  border-radius: 30px;
+  color: #fff;
 }
