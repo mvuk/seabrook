@@ -46,17 +46,17 @@ endwhile;
 			<div class="col-md-4">
 				<h2>Investigations & Training</h2>
 				<p>Short summary about this service. Short summary about this service. Short summary about this service.</p>
-				<a href="/workplace-law-services/investigations-training/">Learn More</a>
+				<a href="/workplace-law-services/investigations-training/">Learn more</a>
 			</div>
 			<div class="col-md-4">
 				<h2>Employees</h2>
 				<p>Short summary about this service. Short summary about this service. Short summary about this service.</p>
-				<a href="/workplace-law-services/employees"></a>
+				<a href="/workplace-law-services/employees">Learn more</a>
 			</div>
 			<div class="col-md-4">
 				<h2>Employers</h2>
 				<p>Short summary about this service. Short summary about this service. Short summary about this service.</p>
-				<a href="/workplace-law-services/employers"></a>
+				<a href="/workplace-law-services/employers">Learn more</a>
 			</div>
 
 		</div>
