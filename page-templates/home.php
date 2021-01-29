@@ -73,8 +73,10 @@ endwhile;
 
 			<div class="col-md-4">
 				<div class="item">
-					<img src="/wp-content/uploads/2021/01/201122-RV-Seabrook-WPL-6770.jpg" alt="">
-					<h3>Our Values</h3>
+					<a href="/our-values/">
+						<img src="/wp-content/uploads/2021/01/201122-RV-Seabrook-WPL-6770.jpg" alt="">
+						<h3>Our Values</h3>
+					</a>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
 				</div>
@@ -82,8 +84,10 @@ endwhile;
 
 			<div class="col-md-4">
 				<div class="item">
-					<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5364.jpg" alt="">
-					<h3>Our Team</h3>
+					<a href="/our-legal-team/">
+						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5364.jpg" alt="">
+						<h3>Our Team</h3>
+					</a>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				</div>
 
@@ -91,8 +95,10 @@ endwhile;
 
 			<div class="col-md-4">
 				<div class="item">
-					<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
-					<h3>Our Clients</h3>
+					<a href="/our-clients/">
+						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
+						<h3>Our Clients</h3>
+					</a>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				</div>
 
@@ -104,17 +110,21 @@ endwhile;
 </div>
 
 <div class="gray-bar">
-<div class="container">
-	<div class="row">
-		<div class="col-md-12">
-			<div class="gray-bar-services">
-				<h2>Our Services</h2>
-				<p>just like gray bar on phantom.house</p>
-				<a href="#">View all legal services</a>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="gray-bar-services">
+					<h2>Workplace Legal Services</h2>
+					<p>just like gray bar on phantom.house</p>
+					<a href="#">
+						<div class="text">
+							View all services
+						</div>
+					</a>
+				</div>
 			</div>
 		</div>
 	</div>
-</div>
 </div>
 
 <?php

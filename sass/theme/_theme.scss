@@ -260,3 +260,16 @@ div#close-overlay {
       }
     }
 }
+
+.gray-bar {
+  background: $gray;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+
+  .gray-bar-services {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
