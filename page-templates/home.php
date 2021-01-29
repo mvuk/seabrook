@@ -26,7 +26,7 @@ endwhile;
 
 		<div class="col-md-6 home-left">
 			<div class="home-introduction">
-				<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
+				<img src="/wp-content/uploads/2021/01/SWL_Logo_Web.png" alt="" class="logo">
 				<h1>Seabrook Workplace Law is the boutique employment law firm you’ve been looking for.</h1>
 				<div class="find-out-more">
 					<a href="#blue-bb">

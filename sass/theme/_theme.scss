@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 // MAIN MENU
 
 img.logo {
-  max-width: 140px;
+  max-width: 120px;
 }
 
 // OVERLAY MENU
@@ -201,6 +201,8 @@ div#close-overlay {
 
   .home-left {
     background: $gray;
+    display: flex;
+    padding: 40px 40px;
 
     .home-introduction {
       display: flex;
