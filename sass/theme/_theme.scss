@@ -318,5 +318,9 @@ div#close-overlay {
 .team-card {
     display: flex;
     margin-bottom: 4rem;
-  
+    background: $gray;
+    .content {
+      padding: 1rem;
+      
+    }
 }
