@@ -74,7 +74,7 @@ endwhile;
 		<div class="row">
 
 			<div class="col-md-4">
-				<div class="item animate__animated animate__fadeInDown animate__slower animate__delay-2s">
+				<div class="item animate__animated animate__fadeIn animate__delay-2s">
 					<a href="/our-values/">
 						<img src="/wp-content/uploads/2021/01/201122-RV-Seabrook-WPL-6770.jpg" alt="">
 						<h3>Our Values</h3>
@@ -85,7 +85,7 @@ endwhile;
 			</div>
 
 			<div class="col-md-4">
-				<div class="item animate__animated animate__fadeInDown animate__slower animate__delay-3s">
+				<div class="item animate__animated animate__fadeIn  animate__delay-3s">
 					<a href="/our-legal-team/">
 						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5364.jpg" alt="">
 						<h3>Our Team</h3>
@@ -96,7 +96,7 @@ endwhile;
 			</div>
 
 			<div class="col-md-4">
-				<div class="item animate__animated animate__fadeInDown animate__slower animate__delay-4s">
+				<div class="item animate__animated animate__fadeIn  animate__delay-4s">
 					<a href="/our-clients/">
 						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
 						<h3>Our Clients</h3>
