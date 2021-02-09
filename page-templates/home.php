@@ -35,7 +35,7 @@ endwhile;
 						<div class="text">
 							Find out more
 						</div>
-						<i class="fa fa-long-arrow-down animate__animated animate__bounce animate__slow"></i>
+						<i class="fa fa-long-arrow-down animate__animated animate__shakeY animate__slower animate__delay-2s"></i>
 					</a>
 				</div>
 			</div>
