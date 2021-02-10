@@ -132,6 +132,7 @@ a.arrow-oval-link {
   border-color: $blue;
   padding: 8px 16px;
   display: inline-flex;
+  transition: 300ms;
   .text {
     font-weight: 600;
   }
