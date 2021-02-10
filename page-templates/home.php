@@ -128,7 +128,7 @@ endwhile;
 		<div class="row">
 			<div class="col-md-4">
 				<a href="/workplace-law-services/investigations-training/">
-					<div class="item">
+					<div class="item animate__animated animate__fadeIn  animate__delay-2s">
 						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
 						<h3>Investigations & Training</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -137,7 +137,7 @@ endwhile;
 			</div>
 			<div class="col-md-4">
 				<a href="/workplace-law-services/employees/">
-					<div class="item">
+					<div class="item animate__animated animate__fadeIn  animate__delay-3s">
 						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
 						<h3>Employees</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -146,7 +146,7 @@ endwhile;
 			</div>
 			<div class="col-md-4">
 				<a href="/workplace-law-services/employers/">
-					<div class="item">
+					<div class="item animate__animated animate__fadeIn  animate__delay-4s">
 						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
 						<h3>Employers</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
