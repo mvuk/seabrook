@@ -78,7 +78,7 @@ img.logo {
       a.menu-item {
         color: #fff;
         font-size: 32px;
-        font-weight: 500;
+        font-weight: 300;
         letter-spacing: 1px;
       }
     }
@@ -426,8 +426,12 @@ div#close-overlay {
     margin-bottom: 4rem;
     background: $gray;
     .content {
-      padding: 1rem;
-
+        padding: 3rem 3rem;
+    }
+    h2 {
+        color: #182240;
+        font-size: 42px;
+        margin-bottom: 3rem;
     }
 }
 
