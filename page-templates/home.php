@@ -24,7 +24,7 @@ endwhile;
 
 	<div class="row">
 
-		<div class="col-md-5 home-left">
+		<div class="col-md-7 home-left">
 			<div class="home-introduction">
 				<a href="/">
 					<img src="/wp-content/uploads/2021/01/SWL_Logo_Web.png" alt="" class="logo">
