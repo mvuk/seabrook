@@ -15,6 +15,8 @@ get_header();
 $container = get_theme_mod( 'understrap_container_type' );
 ?>
 
+<p>test test</p>
+
 <div class="wrapper" id="archive-wrapper">
 
 	<div class="<?php echo esc_attr( $container ); ?>" id="content" tabindex="-1">
