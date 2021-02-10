@@ -245,6 +245,24 @@ div#close-overlay {
   }
   .contact-form-row {
     padding: 4rem 0;
+    h2 {
+        color: #fff;
+        text-align: center;
+        margin-bottom: 2rem;
+        font-size: 24px;
+        font-weight: 500;
+    }
+    .footer-contact-form input.wpcf7-form-control {
+      background: #273669;
+      margin-bottom: 1rem;
+      color: #fff;
+      border: 0;
+      border-bottom: 1px solid #a7aec5;
+      border-radius: 0;
+      ::placeholder {
+        color: #fff;
+      }
+    }
   }
 
 }
