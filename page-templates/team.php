@@ -50,7 +50,7 @@ endwhile;
 					<div class="content">
 						<h2>Samantha<br>Seabrook</h2>
 						<p>Our founder and visionary woman. Samantha is warm, sharp, and ready to give you confidence in your case.</p>
-						<a href="/our-legal-team/samantha-seabrook/">Get to know her</a>
+						<a href="/our-legal-team/samantha-seabrook/" class="pill-button">Get to know her</a>
 					</div>
 				</div>
 
@@ -59,7 +59,7 @@ endwhile;
 					<div class="content">
 						<h2>Karina<br>Pogosyan</h2>
 						<p>Our founder and visionary woman. Samantha is warm, sharp, and ready to give you confidence in your case.</p>
-						<a href="/our-legal-team/karina-pogosyan/">Get to know her</a>
+						<a href="/our-legal-team/karina-pogosyan/" class="pill-button">Get to know her</a>
 					</div>
 				</div>
 
@@ -68,7 +68,7 @@ endwhile;
 					<div class="content">
 						<h2>Sanam<br>Nazir</h2>
 						<p>Our founder and visionary woman. Samantha is warm, sharp, and ready to give you confidence in your case.</p>
-						<a href="/our-legal-team/sanam-nazir/">Get to know her</a>
+						<a href="/our-legal-team/sanam-nazir/" class="pill-button">Get to know her</a>
 					</div>
 				</div>
 
