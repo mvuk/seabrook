@@ -294,6 +294,16 @@ div#close-overlay {
 
 }
 
+// PAGES WITH NO FOOTER
+
+.page-template-team {
+  .footer {
+    display: none;
+  }
+}
+
+
+
 //
 
 #blue-bb {
@@ -367,6 +377,8 @@ div#close-overlay {
       }
     }
 }
+
+
 
 // PAGE HALVES
 
