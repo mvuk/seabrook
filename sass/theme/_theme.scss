@@ -241,11 +241,12 @@ div#close-overlay {
 .footer {
   background: $blue;
   &.one {
-
+        border-bottom: 1px solid #4c577d;
   }
-  &.two {
-
+  .contact-form-row {
+    padding: 4rem 0;
   }
+
 }
 
 //
