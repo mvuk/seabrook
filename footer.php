@@ -31,7 +31,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 <div class="footer two">
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-3">
         <img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
         <div class="footer-contact-details">
           <p>Seabrook Workplace Law
@@ -42,7 +42,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </p>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-md-3">
         <div class="footer-links">
           <a href="/">Home</a>
           <a href="/our-values/">Our Values</a>
@@ -53,7 +53,7 @@ $container = get_theme_mod( 'understrap_container_type' );
           <a href="/contact">Contact</a>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-md-3">
         <div class="footer-links">
           <a href="https://www.facebook.com/seabrookworkplacelaw" target="_blank">Facebook</a>
           <a href="https://www.instagram.com/seabrookworkplacelaw/" target="_blank">Instagram</a>
@@ -61,7 +61,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </div>
       </div>
       <div class="col-md-6">
-
+        <p>Newsletter</p>
       </div>
     </div>
   </div>
