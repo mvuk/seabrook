@@ -73,7 +73,7 @@ endwhile;
 
 		<div class="row">
 			<div class="col-md-12">
-				<h2 class="animate__animated animate__fadeIn">Discover Our Firm</h2>
+				<h2 class="animate__animated animate__fadeIn animate__slower">Discover Our Firm</h2>
 			</div>
 		</div>
 
