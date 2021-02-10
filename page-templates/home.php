@@ -172,7 +172,7 @@ endwhile;
 		<div class="row">
 
 			<div class="col-md-4">
-				<a href="/our-values/">
+				<a href="#">
 					<div class="item ">
 						<img src="/wp-content/uploads/2021/01/201122-RV-Seabrook-WPL-6770.jpg" alt="">
 						<h3>Our Values</h3>
@@ -182,7 +182,7 @@ endwhile;
 			</div>
 
 			<div class="col-md-4">
-				<a href="/our-legal-team/">
+				<a href="#">
 					<div class="item ">
 						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5364.jpg" alt="">
 						<h3>Our Team</h3>
@@ -193,7 +193,7 @@ endwhile;
 			</div>
 
 			<div class="col-md-4">
-				<a href="/our-clients/">
+				<a href="#">
 					<div class="item ">
 						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
 						<h3>Our Clients</h3>
