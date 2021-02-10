@@ -42,7 +42,7 @@ $container = get_theme_mod( 'understrap_container_type' );
         </p>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-2">
         <div class="footer-links">
           <a href="/">Home</a>
           <a href="/our-values/">Our Values</a>
@@ -53,14 +53,14 @@ $container = get_theme_mod( 'understrap_container_type' );
           <a href="/contact">Contact</a>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-2">
         <div class="footer-links">
           <a href="https://www.facebook.com/seabrookworkplacelaw" target="_blank">Facebook</a>
           <a href="https://www.instagram.com/seabrookworkplacelaw/" target="_blank">Instagram</a>
           <a href="https://www.linkedin.com/company/seabrook-workplace-law/" target="_blank">LinkedIn</a>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6">
 
       </div>
     </div>

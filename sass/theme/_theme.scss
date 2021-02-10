@@ -302,6 +302,13 @@ div#close-overlay {
       margin-top: 2rem;
       color: #fff;
     }
+    .footer-links {
+      display: flex;
+      flex-direction: column;
+      a {
+        color: #fff;
+      }
+    }
 }
 // PAGES WITH NO FOOTER
 
