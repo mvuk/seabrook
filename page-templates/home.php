@@ -29,7 +29,9 @@ endwhile;
 				<a href="/">
 					<img src="/wp-content/uploads/2021/01/SWL_Logo_Web.png" alt="" class="logo">
 				</a>
-				<h1>Seabrook Workplace Law is the boutique employment law firm you’ve been looking for.</h1>
+				<div class="header-text">
+					<h1>Seabrook Workplace Law is the boutique employment law firm you’ve been looking for.</h1>
+				</div>
 				<div class="find-out-more animate__animated animate__shakeY animate__slower animate__delay-2s">
 					<a href="#blue-bb">
 						<div class="text">
