@@ -27,7 +27,7 @@ endwhile;
 				<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
 			</a>
 			<!-- RETURN AREA -->
-			<a href="/workplace-law-services/" class="return-btn border-btn white">Return to services</a>
+			<a href="/workplace-law-services/" class="pill-button white">Return to services</a>
 			<!-- END RETURN AREA -->
 			<h1>Employees</h1>
 			<p>Seabrook Workplace law offers serious services for serious clients. We really know what we are doing.</p>

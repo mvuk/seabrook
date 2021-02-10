@@ -27,7 +27,7 @@ endwhile;
 				<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
 			</a>
 			<!-- RETURN AREA -->
-			<a href="/our-legal-team/" class="return-btn">Return to legal team</a>
+			<a href="/our-legal-team/" class="pill-button white">Return to legal team</a>
 			<!-- END RETURN AREA -->
 			<h1>Sanam Nazir</h1>
 			<h2>Lawyer</h2>
