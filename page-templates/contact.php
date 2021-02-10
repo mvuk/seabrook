@@ -20,7 +20,7 @@ endwhile;
 
 ?>
 
-<div class="page-halves">
+<div class="page-halves-contact">
 
 	<div class="half-header">
 
