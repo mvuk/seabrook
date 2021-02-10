@@ -208,6 +208,10 @@ div#close-overlay {
   min-height: 100vh;
   display: flex;
 
+  .row {
+    width: 100% !important;
+  }
+
   .home-left {
     background: $gray;
     display: flex;
