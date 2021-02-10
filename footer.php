@@ -37,15 +37,28 @@ $container = get_theme_mod( 'understrap_container_type' );
           <p>Seabrook Workplace Law
           <br>30 Wellington Street West, 5th Floor
           <br>Toronto, Ontario M5L 1E2</p>
+          <p>Phone: 647.361.4410
+          <br>Fax: 647.361.3143
+        </p>
         </div>
-        <p></p>
-        <p></p>
       </div>
       <div class="col-md-4">
-
+        <div class="footer-links">
+          <a href="/">Home</a>
+          <a href="/our-values/">Our Values</a>
+          <a href="/our-legal-realm/">Our Legal Team</a>
+          <a href="/workplace-law-services">Workplace Law Services</a>
+          <a href="/our-clients/">Our Clients</a>
+          <a href="/blog">Blog</a>
+          <a href="/contact">Contact</a>
+        </div>
       </div>
       <div class="col-md-4">
-
+        <div class="footer-links">
+          <a href="https://www.facebook.com/seabrookworkplacelaw" target="_blank">Facebook</a>
+          <a href="https://www.instagram.com/seabrookworkplacelaw/" target="_blank">Instagram</a>
+          <a href="https://www.linkedin.com/company/seabrook-workplace-law/" target="_blank">LinkedIn</a>
+        </div>
       </div>
       <div class="col-md-4">
 
