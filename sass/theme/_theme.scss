@@ -319,11 +319,19 @@ div#close-overlay {
 .three-items {
     padding-top: 6rem;
     padding-bottom: 6rem;
-
+    h2 {
+        text-align: center;
+        margin-bottom: 6rem;
+        font-size: 36px;
+    }
     .item {
       img {
         margin-bottom: 1rem;
       }
+    }
+    a:hover {
+      text-decoration: none;
+      opacity: 0.8;
     }
 }
 
