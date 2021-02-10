@@ -58,6 +58,7 @@ endwhile;
 		</div>
 		<div class="contact-bottom">
 			<div class="contact-page-form">
+				<p>#TODO restyle this form.</p>
 				<?php echo do_shortcode('[contact-form-7 id="105"]'); ?>
 			</div>
 		</div>
