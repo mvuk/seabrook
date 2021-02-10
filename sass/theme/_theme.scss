@@ -534,5 +534,10 @@ div#close-overlay {
             align-items: flex-end;
             padding: 2rem;
         }
-    }
+        .contact-bottom {
+          width: 100%;
+          flex-grow: 1;
+          padding: 2rem 0;
+        }
+      }
 }
