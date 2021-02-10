@@ -29,14 +29,19 @@ endwhile;
 			</a>
 
 			<h1>Our Values</h1>
-			<p>"Good People, Good Work" is our guiding value at SWL. To us, good people doing good work means creating an environment where the individual can thrive as a leader in their workplace and in their community. "Good People, Good Work" is a reflection of our clients, who are workplace leaders in their industries, and who we are at SWL.</p>
-			<p>At SWL, Good People, Good Work starts with living our values.</p>
 		</div>
 
 </div>
 
 <div class="content-area">
 	<div class="container">
+		<div class="row">
+				<div class="col">
+					<p><strong>"Good People, Good Work"</strong> is our guiding value at SWL. To us, good people doing good work means creating an environment where the individual can thrive as a leader in their workplace and in their community. "Good People, Good Work" is a reflection of our clients, who are workplace leaders in their industries, and who we are at SWL.</p>
+					<p>At SWL, Good People, Good Work starts with living our values.</p>
+
+				</div>
+		</div>
 		<div class="row">
 			<div class="col-md-12">
 				<h2>Service</h2>
