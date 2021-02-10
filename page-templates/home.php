@@ -159,6 +159,55 @@ endwhile;
 	</div>
 </div>
 
+
+<div class="three-items">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-md-12">
+				<h2 class="">Our Blog</h2>
+			</div>
+		</div>
+
+		<div class="row">
+
+			<div class="col-md-4">
+				<a href="/our-values/">
+					<div class="item ">
+						<img src="/wp-content/uploads/2021/01/201122-RV-Seabrook-WPL-6770.jpg" alt="">
+						<h3>Our Values</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-4">
+				<a href="/our-legal-team/">
+					<div class="item ">
+						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5364.jpg" alt="">
+						<h3>Our Team</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+				</div>
+			</a>
+
+			</div>
+
+			<div class="col-md-4">
+				<a href="/our-clients/">
+					<div class="item ">
+						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
+						<h3>Our Clients</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					</div>
+				</a>
+
+			</div>
+
+		</div>
+
+	</div>
+</div>
+
 <?php
 
 get_footer();
