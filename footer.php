@@ -20,10 +20,10 @@ $container = get_theme_mod( 'understrap_container_type' );
   <div class="container">
     <div class="row footer-row-one">
       <div class="col-md-12">
+        <h2>Make an enquiry</h2>
         <?php echo do_shortcode('[contact-form-7 id="105"]'); ?>
       </div>
     </div>
-
   </div>
 
 </div>
@@ -32,7 +32,13 @@ $container = get_theme_mod( 'understrap_container_type' );
   <div class="container">
     <div class="row">
       <div class="col-md-4">
+        <img src="/wp-content/uploads/2021/01/SWL_Logo_Web.png" alt="" class="logo">
+        <p>Seabrook Workplace Law
+        <br>30 Wellington Street West, 5th Floor
+        <br>Toronto, Ontario M5L 1E2</p>
 
+        <p></p>
+        <p></p>
       </div>
       <div class="col-md-4">
 
