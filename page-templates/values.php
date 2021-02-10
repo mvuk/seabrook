@@ -29,9 +29,8 @@ endwhile;
 			</a>
 
 			<h1>Our Values</h1>
-			<p>Roaming this world in his creative paths, exploring the inevitable limits of the human perception and artificial creativity.</p>
-			<p>The fear of white paper, the anxiety of a deadline, the blood rush of creation, the happiness of production; all of them embodied in an airy, mystical and mysterious form.</p>
-			<p>We are pilgrims, devoted disciples in all creative projects of the phantom. All the way. Phantom choose us. We obey.</p>
+			<p>"Good People, Good Work" is our guiding value at SWL. To us, good people doing good work means creating an environment where the individual can thrive as a leader in their workplace and in their community. "Good People, Good Work" is a reflection of our clients, who are workplace leaders in their industries, and who we are at SWL.</p>
+			<p>At SWL, Good People, Good Work starts with living our values.</p>
 		</div>
 
 </div>
@@ -40,14 +39,24 @@ endwhile;
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h2>Content</h2>
-				<p>Content</p>
-				<h3>Content</h3>
-				<p>Content</p>
-				<h2>Content</h2>
-				<p>Content</p>
-				<h3>Content</h3>
-				<p>Content</p>
+				<h2>Service</h2>
+				<p>We are of service to our clients and our community.</p>
+				<p>We use our legal expertise to enable, protect, and create opportunities for people and organizations to grow and thrive. We seek to provide only the best client care, truly integrating with you and your legal matter. </p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<h2>Wellness</h2>
+				<p>We practice law in a healthy and happy environment. </p>
+				<p>We embody and live our values, exercising and implementing healthy practices for our team, our clients, and community outreach initiatives. We understand that happy people make  better decisions, which enables success and growth - both personally, and  professionally. </p>
+				<p>Wellness includes the wellness of our planet. SWL creates and implements green systems into our legal practice.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<h2>Legacy</h2>
+				<p>As legal professionals, we recognize our special responsibility for promoting equality, diversity and inclusion in our practice and in our community. We are committed to creating inclusive workplaces in Canada.</p>
+				<p>We strive daily to create a legacy of diversity and inclusion for our team, our clients, and our community. We understand that together we are stronger, more resilient, more capable, and better equipped to deliver excellence. </p>
 			</div>
 		</div>
 	</div>

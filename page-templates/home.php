@@ -56,13 +56,13 @@ endwhile;
 
 		<div class="row row-one justify-content-end">
 			<div class="col-md-9">
-				<h2>Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all.</h2>
+				<h2>The best workplaces start with good people doing good work. Your business needs legal advice that leads you there.</h2>
 			</div>
 		</div>
 
 		<div class="row row-two ">
 			<div class="col-md-9">
-				<p>Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all. Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all. Our firm started with Samantha, our founding lawyer, and her vision to make employment law accessible to all.</p>
+				<p>We get to know you. We get to know your business. We get to know your workplace. At SWL, this is the start of every client relationship. We understand that you have a vision for your business, and we bring our experience and expertise to help you create solid foundations to build the best workplace. Our clients range from the business that is hiring its first employee, to our institutional clients with thousands of employees. They all have one thing in common: they are good people, doing good work.</p>
 			</div>
 		</div>
 
@@ -165,7 +165,7 @@ endwhile;
 
 		<div class="row">
 			<div class="col-md-12">
-				<h2 class="">Our Blog</h2>
+				<h2 class="">The Good Work Blog</h2>
 			</div>
 		</div>
 

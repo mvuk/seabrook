@@ -29,9 +29,8 @@ endwhile;
 					<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
 				</a>
 				<div class="text">
-					<h1>Who makes it happen?</h1>
-					<p>Our legal team is top notch lawyers only. They are competent and happy and skilled.</p>
-					<p>Explore the profiles of our lawyers.</p>
+					<h1>Good People.</h1>
+					<p>We are leaders in workplace law who use our experience.</p>
 				</div>
 				<div class="filler-area">
 
