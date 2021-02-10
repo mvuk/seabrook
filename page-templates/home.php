@@ -72,6 +72,12 @@ endwhile;
 	<div class="container">
 
 		<div class="row">
+			<div class="col-md-12">
+				<h2 class="animate__animated animate__fadeIn">Discover Our Firm</h2>
+			</div>
+		</div>
+
+		<div class="row">
 
 			<div class="col-md-4">
 				<div class="item animate__animated animate__fadeIn animate__slower animate__delay-2s">
