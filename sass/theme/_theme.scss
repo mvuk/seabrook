@@ -327,11 +327,19 @@ a.pill-button {
     padding: 4px 8px;
     border-radius: 4px;
     transition: 300ms;
+    &.white {
+      color: #fff;
+      background: none;
+    }
 }
 a.pill-button:hover {
     background: $blue;
     color: #fff;
     text-decoration: none;
+    &.white {
+      background: #fff;
+      color: $blue;
+    }
 }
 
 // BLOG
