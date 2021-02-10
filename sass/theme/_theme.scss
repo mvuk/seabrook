@@ -239,11 +239,12 @@ div#close-overlay {
 // // // FOOTER
 
 .footer {
-  .footer-row-one {
+  background: $blue;
+  &.one {
 
   }
-  .footer-row-two {
-    
+  &.two {
+
   }
 }
 

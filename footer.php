@@ -18,7 +18,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 <div class="footer one">
 
   <div class="container">
-    <div class="row footer-row-one">
+    <div class="row contact-form-row">
       <div class="col-md-12">
         <h2>Make an enquiry</h2>
         <?php echo do_shortcode('[contact-form-7 id="105"]'); ?>
