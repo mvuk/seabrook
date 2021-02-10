@@ -48,7 +48,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 <!--  -->
 
-<main class="site-main" id="main">
+<main class="site-main blog-posts" id="main">
 
 	<?php
 	if ( have_posts() ) {
