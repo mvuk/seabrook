@@ -30,7 +30,7 @@ endwhile;
 					<img src="/wp-content/uploads/2021/01/SWL_Logo_Web.png" alt="" class="logo">
 				</a>
 				<div class="header-text animate__animated animate__fadeIn animate__animated animate__fadeIn animate__slower">
-					<h1>Seabrook Workplace Law is the boutique employment law firm you’ve been looking for.</h1>
+					<h1>Good People. Good Work.</h1>
 				</div>
 				<div class="find-out-more animate__animated animate__shakeY animate__slower animate__delay-2s">
 					<a href="#blue-bb">
