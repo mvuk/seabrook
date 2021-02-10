@@ -296,7 +296,8 @@ div#close-overlay {
 
 // PAGES WITH NO FOOTER
 
-.page-template-team {
+.page-template-team,
+.page-template-contact {
   .footer {
     display: none;
   }
