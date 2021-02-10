@@ -498,3 +498,28 @@ div#close-overlay {
 
   }
 }
+
+// CONTACT PAGE
+
+.page-halves-contact {
+    display: flex;
+    flex-direction: row;
+    .half-header {
+        background: $blue;
+        width: 35%;
+    height: 100vh;
+    display: flex;
+    padding: 40px 40px;
+
+    flex-grow: 1;
+    .half-header-content {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    }
+    }
+    .half-content.services {
+        flex-grow: 1;
+    }
+}
