@@ -30,12 +30,12 @@ endwhile;
 					<img src="/wp-content/uploads/2021/01/SWL_Logo_Web.png" alt="" class="logo">
 				</a>
 				<h1>Seabrook Workplace Law is the boutique employment law firm you’ve been looking for.</h1>
-				<div class="find-out-more ">
+				<div class="find-out-more animate__animated animate__shakeY animate__slower animate__delay-2s">
 					<a href="#blue-bb">
 						<div class="text">
 							Find out more
 						</div>
-						<i class="fa fa-long-arrow-down animate__animated animate__shakeY animate__slower animate__delay-2s animate__infinite"></i>
+						<i class="fa fa-long-arrow-down "></i>
 					</a>
 				</div>
 			</div>
@@ -74,7 +74,7 @@ endwhile;
 		<div class="row">
 
 			<div class="col-md-4">
-				<div class="item animate__animated animate__fadeIn animate__delay-2s">
+				<div class="item animate__animated animate__fadeIn animate__slower animate__delay-2s">
 					<a href="/our-values/">
 						<img src="/wp-content/uploads/2021/01/201122-RV-Seabrook-WPL-6770.jpg" alt="">
 						<h3>Our Values</h3>
