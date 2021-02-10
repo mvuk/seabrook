@@ -27,7 +27,9 @@ endwhile;
 				<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
 			</a>
 			<!-- RETURN AREA -->
-			<a href="/our-legal-team/" class="return-btn pill-button white">Return to legal team</a>
+			<div class="return-button">
+				<a href="/our-legal-team/" class="return-btn pill-button white">Return to legal team</a>				
+			</div>
 			<!-- END RETURN AREA -->
 			<h1>Samantha Seabrook</h1>
 			<h2>Founding Lawyer</h2>
