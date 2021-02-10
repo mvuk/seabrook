@@ -47,7 +47,7 @@ endwhile;
 				<h2>Content</h2>
 				<p>Content</p>
 				<h3>Content</h3>
-				<p>Content</p>				
+				<p>Content</p>
 			</div>
 		</div>
 	</div>

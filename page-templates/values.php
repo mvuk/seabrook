@@ -36,6 +36,23 @@ endwhile;
 
 </div>
 
+<div class="content-area">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h2>Content</h2>
+				<p>Content</p>
+				<h3>Content</h3>
+				<p>Content</p>
+				<h2>Content</h2>
+				<p>Content</p>
+				<h3>Content</h3>
+				<p>Content</p>
+			</div>
+		</div>
+	</div>
+</div>
+
 <?php
 
 get_footer();
