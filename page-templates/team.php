@@ -50,7 +50,7 @@ endwhile;
 					<div class="content">
 						<h2>Samantha<br>Seabrook</h2>
 						<p>Our founder and visionary woman. Samantha is warm, sharp, and ready to give you confidence in your case.</p>
-						<a href="/our-legal-team/samantha-seabrook/" class="pill-button">Get to know her</a>
+						<a href="/our-legal-team/samantha-seabrook/" class="pill-button pink">Get to know her</a>
 					</div>
 				</div>
 
