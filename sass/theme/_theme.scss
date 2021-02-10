@@ -320,6 +320,18 @@ div#close-overlay {
     display: none;
   }
 }
+//
+a.pill-button {
+    border: 1px solid;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: 300ms;
+}
+a.pill-button:hover {
+    background: $blue;
+    color: #fff;
+    text-decoration: none;
+}
 
 // BLOG
 
