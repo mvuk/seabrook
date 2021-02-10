@@ -53,18 +53,17 @@ endwhile;
 	</div>
 
 	<div class="half-content services">
-		<div class="row">
-			<div class="col-md-12">
-				<p>1</p>
-
-			</div>
-
+		<div class="contact-top">
+			<h2>Let's take the first step.</h2>
 		</div>
-		<div class="row">
-			<div class="col-md-12">
-	      <?php echo do_shortcode('[contact-form-7 id="105"]'); ?>
+		<div class="contact-bottom">
+			<div class="row">
+				<div class="col-md-12">
+		      <?php echo do_shortcode('[contact-form-7 id="105"]'); ?>
+				</div>
 			</div>
 		</div>
+
 	</div>
 
 </div>

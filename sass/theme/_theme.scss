@@ -507,16 +507,19 @@ div#close-overlay {
     .half-header {
         background: $blue;
         width: 35%;
-    height: 100vh;
-    display: flex;
-    padding: 40px 40px;
+        height: 100vh;
+        display: flex;
+        padding: 40px 40px;
 
-    flex-grow: 1;
     .half-header-content {
 
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      .text {
+          color: #fff;
+      }
     }
     }
     .half-content.services {
