@@ -59,6 +59,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<a href="/our-legal-team/" class="menu-item">Our Legal Team</a>
 				<a href="/workplace-law-services/" class="menu-item">Workplace Law Services</a>
 				<a href="/our-clients/" class="menu-item">Our Clients</a>
+				<a href="/blog/" class="menu-item">Blog</a>
 				<a href="/contact" class="menu-item">Contact</a>
 			</div>
 			<div class="social">
@@ -69,9 +70,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 					</a>
 					<a href="https://www.instagram.com/seabrookworkplacelaw">
 						<i class="fa fa-instagram"></i>
-					</a>
-					<a href="https://twitter.com/SeabrookWorkLaw">
-						<i class="fa fa-twitter"></i>
 					</a>
 					<a href="https://www.linkedin.com/company/seabrook-workplace-law/">
 						<i class="fa fa-linkedin"></i>

@@ -32,7 +32,7 @@ endwhile;
 					<h1>Contact</h1>
 					<p>Seabrook Workplace Law<br>30 Wellington Street West, 5th Floor<br>Toronto, Ontario M5L 1E2</p>
 					<p>Phone: 647.361.4410<br>Fax: 647.361.3143</p>
-					<p>Email:samantha@seabrookworkplacelaw.ca</p>
+					<p>samantha@seabrookworkplacelaw.ca</p>
 				</div>
 				<div class="social">
 					<p>Follow us</p>
@@ -42,9 +42,6 @@ endwhile;
 						</a>
 						<a href="https://www.instagram.com/seabrookworkplacelaw">
 							<i class="fa fa-instagram"></i>
-						</a>
-						<a href="https://twitter.com/SeabrookWorkLaw">
-							<i class="fa fa-twitter"></i>
 						</a>
 						<a href="https://www.linkedin.com/company/seabrook-workplace-law/">
 							<i class="fa fa-linkedin"></i>
