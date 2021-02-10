@@ -8,14 +8,14 @@ html {
 
 body {
   font-family: 'neue-haas-unica', sans-serif;
-  font-family: 'plantin', serif;
+  // font-family: 'plantin', serif;
   font-weight: 4;
   font-style: normal;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'neue-haas-unica',sans-serif;
-  font-family: 'plantin', serif;
+  // font-family: 'plantin', serif;
   font-weight: 600;
   font-style: normal;
   // letter-spacing: 1px;
@@ -226,6 +226,9 @@ div#close-overlay {
     .find-out-more {
       font-size: 24px;
       font-weight: 600;
+      .text {
+        margin-bottom: 1rem;
+      }
     }
   }
   .home-image {
@@ -256,7 +259,7 @@ div#close-overlay {
     }
     .footer-contact-form input.wpcf7-form-control {
 
-      background: #273669;
+      background: none;
       margin-bottom: 1.5rem;
       color: #fff;
       border: 0;
@@ -271,7 +274,7 @@ div#close-overlay {
       }
     }
     textarea.wpcf7-form-control.wpcf7-textarea {
-    background: #273669;
+    background: none;
     padding-left: 0;
     padding-right: 0;
     border: 0;
