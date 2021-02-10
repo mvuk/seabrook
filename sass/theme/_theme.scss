@@ -331,6 +331,9 @@ a.pill-button {
       color: #fff;
       background: none;
     }
+    &.pink {
+      color: $pink;
+    }
 }
 a.pill-button:hover {
     background: $blue;
@@ -340,9 +343,12 @@ a.pill-button:hover {
       background: #fff;
       color: $blue;
     }
+    &.pink {
+      background: $pink;
+    }
 }
 
-// 
+//
 
 .return-button {
     margin-bottom: 1rem;
