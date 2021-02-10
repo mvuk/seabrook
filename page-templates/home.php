@@ -122,13 +122,32 @@ endwhile;
 			<div class="col-md-12">
 				<div class="gray-bar-services">
 					<h2>Workplace Legal Services</h2>
-					<p>just like gray bar on phantom.house</p>
-					<a href="/workplace-law-services/">
-						<div class="text">
-							View all services
-						</div>
-					</a>
 				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<a href="/workplace-law-services/investigations-training/">
+					<div class="item">
+						<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
+						<h3>Investigations & Training</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="/workplace-law-services/employees/">
+					<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
+					<h3>Employees</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="/workplace-law-services/employers/">
+					<img src="/wp-content/uploads/2021/01/201108-RV-Seabrook-WPL-5543-scaled.jpg" alt="">
+					<h3>Employers</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+				</a>
 			</div>
 		</div>
 	</div>
