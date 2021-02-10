@@ -57,10 +57,8 @@ endwhile;
 			<h2>Let's take the first step.</h2>
 		</div>
 		<div class="contact-bottom">
-			<div class="row">
-				<div class="col-md-12">
-		      <?php echo do_shortcode('[contact-form-7 id="105"]'); ?>
-				</div>
+			<div class="contact-page-form">
+				<?php echo do_shortcode('[contact-form-7 id="105"]'); ?>
 			</div>
 		</div>
 
