@@ -253,16 +253,34 @@ div#close-overlay {
         font-weight: 500;
     }
     .footer-contact-form input.wpcf7-form-control {
+
       background: #273669;
-      margin-bottom: 1rem;
+      margin-bottom: 1.5rem;
       color: #fff;
       border: 0;
       border-bottom: 1px solid #a7aec5;
       border-radius: 0;
+      padding-left: 0;
+      padding-right: 0;
+
       &::placeholder {
         color: #fff;
         opacity: 1
       }
+    }
+    textarea.wpcf7-form-control.wpcf7-textarea {
+    background: #273669;
+    padding-left: 0;
+    padding-right: 0;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid #a7aec5;
+    margin-bottom: 2rem;
+    height: 100px;
+    &::placeholder {
+      color: #fff;
+      opacity: 1
+    }
     }
   }
 
