@@ -23,6 +23,61 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<?php get_template_part( 'global-templates/hero' ); ?>
 <?php endif; ?>
 
+<!--  -->
+
+<div class="page-halves">
+
+	<div class="half-header">
+
+			<div class="half-header-content">
+				<a href="/">
+					<img src="/wp-content/uploads/2021/01/SWL_Logo_Web_White.png" alt="" class="logo">
+				</a>
+				<div class="text">
+					<h1>Our Blog</h1>
+					<p>Seabrook has experience on both sides of the equation, and we can help anyone. Seabrook has experience on both sides of the equation, and we can help anyone. Seabrook has experience on both sides of the equation, and we can help anyone.</p>
+				</div>
+				<div class="filler-area">
+
+				</div>
+			</div>
+
+	</div>
+
+	<div class="half-content blog-posts">
+
+<!--  -->
+
+<main class="site-main" id="main">
+
+	<?php
+	if ( have_posts() ) {
+		// Start the Loop.
+		while ( have_posts() ) {
+			the_post();
+
+			/*
+			 * Include the Post-Format-specific template for the content.
+			 * If you want to override this in a child theme, then include a file
+			 * called content-___.php (where ___ is the Post Format name) and that will be used instead.
+			 */
+			get_template_part( 'loop-templates/content', get_post_format() );
+		}
+	} else {
+		get_template_part( 'loop-templates/content', 'none' );
+	}
+	?>
+
+</main><!-- #main -->
+
+<!--  -->
+
+	</div>
+
+</div>
+
+<!--  -->
+
 <p>test test</p>
 
 
@@ -35,27 +90,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<!-- Do the left sidebar check and opens the primary div -->
 			<?php get_template_part( 'global-templates/left-sidebar-check' ); ?>
 
-			<main class="site-main" id="main">
 
-				<?php
-				if ( have_posts() ) {
-					// Start the Loop.
-					while ( have_posts() ) {
-						the_post();
-
-						/*
-						 * Include the Post-Format-specific template for the content.
-						 * If you want to override this in a child theme, then include a file
-						 * called content-___.php (where ___ is the Post Format name) and that will be used instead.
-						 */
-						get_template_part( 'loop-templates/content', get_post_format() );
-					}
-				} else {
-					get_template_part( 'loop-templates/content', 'none' );
-				}
-				?>
-
-			</main><!-- #main -->
 
 			<!-- The pagination component -->
 			<?php understrap_pagination(); ?>
