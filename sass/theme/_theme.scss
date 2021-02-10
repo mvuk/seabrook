@@ -331,7 +331,10 @@ div#close-overlay {
     }
     a:hover {
       text-decoration: none;
-      opacity: 0.8;
+      img, h3, p {
+        opacity: 0.8;
+        transition: 300ms;
+      }
     }
 }
 
